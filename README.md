@@ -18,7 +18,7 @@
 ![html5](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![html5](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![html5](https://github-readme-stats.vercel.app/api/top-langs/?username=jobemcamera&layout=compact&langs_count=7&theme=blue-green)
+
 ---
 
 ### Contact Me
