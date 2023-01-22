@@ -6,7 +6,9 @@
 
 
 
-![html5](https://github-readme-streak-stats.herokuapp.com/?user=jobemcamera&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true)
+![](https://streak-stats.demolab.com/?user=jobemcamera&theme=dark)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jobemcamera&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ---
 
